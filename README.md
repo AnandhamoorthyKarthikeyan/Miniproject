@@ -30,11 +30,12 @@ Middleware: JWT for session management and bcrypt for hashing passwords.
 Deployment: Hosted on a cloud platform like AWS or Heroku, ensuring high availability.
 ## Output
 
-#### Output1 - Name of the output
+#### Output1 - about secure ehr page 
 
 ![Screenshot 2024-11-09 230016](https://github.com/user-attachments/assets/7862b716-566f-4d33-a4e4-254b9540dbce)
+![Screenshot 2024-11-09 230035](https://github.com/user-attachments/assets/4051db8e-3718-4b37-84e1-ead3f33a44f8)
 
-#### Output2 - Name of the output
+#### Output2 - login page for patient and doctor
 ![Screenshot 2024-11-09 230133](https://github.com/user-attachments/assets/843b0457-2aae-447b-8b31-d9e48ca0be53)
 
 ## Results and Impact
